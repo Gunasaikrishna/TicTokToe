@@ -1,7 +1,9 @@
-![shared image (1)](https://github.com/user-attachments/assets/4d470a72-f148-4d6a-9243-14fcb4cfc91a)
-
-![shared image (2)](https://github.com/user-attachments/assets/4cf8d133-cce9-442f-bc60-94ce1969e408)
-
+<p float="left">
+<img src="https://github.com/user-attachments/assets/4d470a72-f148-4d6a-9243-14fcb4cfc91a" width="250" />
+&nbsp; &nbsp;
+<img src="https://github.com/user-attachments/assets/4cf8d133-cce9-442f-bc60-94ce1969e408" width="250" />
+</p>
+ 
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
